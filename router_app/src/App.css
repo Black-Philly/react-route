@@ -1,0 +1,30 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.navbar{
+background-color: rgba(15, 4, 110, 0.575);
+border: thick;
+border-radius: 5px;
+margin: 5px;
+width: 300px;
+align-items: center;
+border: outset;
+}
+
+.navigate{
+margin: 10px;
+padding: 5px;
+width: 80px;
+font-size: medium;
+}
+
+.navigate:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+
+
+
